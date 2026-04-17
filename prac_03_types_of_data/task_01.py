@@ -12,12 +12,12 @@ h = {7, 8, 9}
 i = None
 
 # Выводим типы переменных
-print(type(a)) # целое число
-print(type(b)) # число с плавающей точкой
-print(type(c)) # строка
-print(type(d)) # булевый тип
-print(type(e)) # список
-print(type(f)) # кортеж
-print(type(g)) # словарь
-print(type(h)) # множество
-print(type(i)) # тип данных None ("ничего")
+print(type(a))  # целое число
+print(type(b))  # число с плавающей точкой
+print(type(c))  # строка
+print(type(d))  # булев тип
+print(type(e))  # список
+print(type(f))  # кортеж
+print(type(g))  # словарь
+print(type(h))  # множество
+print(type(i))  # тип данных None ("ничего")

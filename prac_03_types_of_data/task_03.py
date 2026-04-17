@@ -11,4 +11,4 @@ try:
     res = num1 + num2
     print(f"Сумма чисел: {res}")
 except ValueError:
-    print("Ошибка: вы ввели не целое число!")
+    print("Ошибка: ваш ввод некорректен!")
